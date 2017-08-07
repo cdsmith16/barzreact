@@ -1,9 +1,11 @@
-Get started
+#Barz
+
+Comb your social media for your hottest barz
 ===========
 
-This is an example setup for react-materialize and webpack.
+Built in react-materialize and webpack.
 
-run the example with:
+While in development, run with:
 
     npm install
     npm run start

@@ -1,14 +1,14 @@
 {
-  "name": "test-material",
+  "name": "barzreact",
   "version": "1.0.0",
-  "description": "",
+  "description": "Comb your social media for your hottest barz",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --colors --progress",
     "start": "webpack-dev-server --config webpack.config.js --progress --colors"
   },
-  "author": "",
+  "author": "Christian D. Smith <mediummillennial@gmail.com> (github.com/csmooth)",
   "license": "ISC",
   "dependencies": {
     "jquery": "^2.1.4",
