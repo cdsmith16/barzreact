@@ -13,8 +13,8 @@ class BarHeader extends React.Component {
 			<Navbar brand='Barz' className='light-green' waves='light' fixed right>
 				<NavItem href='get-started.html'>Get Started</NavItem>
 				<NavItem href='components.html'>About Barz</NavItem>
-				<NavItem href='#'><Icon left>facebook</Icon>Facebook</NavItem>
-				<NavItem href='#'><Icon left>twitter</Icon>Twitter</NavItem>
+				<NavItem href='#'><Icon left>facebook</Icon></NavItem>
+				<NavItem href='#'><Icon left>twitter</Icon></NavItem>
 			</Navbar>
 		);
 	}
