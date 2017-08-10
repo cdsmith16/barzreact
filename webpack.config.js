@@ -8,6 +8,8 @@ module.exports = {
     path: path.join(__dirname, 'dist'),
     filename: 'bundle.js'
   },
+  debug: true,
+  devtool: "#eval-source-map",
   module: {
     loaders: [
       { test: /\.js$/, exclude: /node_modules/, loader: 'babel',
