@@ -4,7 +4,7 @@ Comb your social media for your hottest barz
 
 ===========
 
-Built in react-materialize and webpack.
+Built in react-materialize and webpack. Forked from [Boiler Plate](https://github.com/react-materialize/webpack-boilplate)
 
 While in development, run with:
 
